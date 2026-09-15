@@ -10,11 +10,11 @@ Nesta Sprint 3, o protótipo foi evoluído para ampliar o fluxo de acompanhament
 
 ### Protótipo Figma
 
-[COLOCAR LINK DO FIGMA]
+https://www.figma.com/design/BecIXOmVPRjZ3g64rL1mkW/MetaSafe-EPI---Sprint-3?node-id=1-9&t=RzjmhqBO5sw36VXE-1
 
 ### Trello
 
-[COLOCAR LINK DO TRELLO]
+https://trello.com/invite/b/6aa9a0d60c198ec8e4172a1c/ATTI9f167e47079418fd46ba63b16020e4a10E3CC86E/metasafe-epi-sprint-3
 
 ### Documentação Scrum
 
