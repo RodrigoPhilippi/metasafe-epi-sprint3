@@ -37,3 +37,7 @@ A Sprint 3 refinou o fluxo entre a detecção de eventos de risco, geração de 
 ## Scrum
 
 A organização da Sprint foi realizada utilizando Scrum e Trello, contemplando Product Backlog, Sprint Backlog, acompanhamento das atividades, Definition of Done e registro das cerimônias.
+
+## Scrum
+
+A organização da Sprint foi realizada utilizando Scrum e Trello, contemplando Product Backlog, Sprint Backlog, acompanhamento das atividades, Definition of Done e registro das cerimônias.
